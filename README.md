@@ -125,7 +125,7 @@ I currently drive **CVE remediation**, **TestOps automation**, and **AI-powered 
 |:---:|:-------------|:------:|:------:|
 | ![](https://img.shields.io/badge/-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/eaa80e63-0874-4c95-90fc-67c6b87bba0f/public_url)** | CNCF | [**Verify**](https://www.credly.com/badges/eaa80e63-0874-4c95-90fc-67c6b87bba0f/public_url) |
 | ![](https://img.shields.io/badge/-8952E0?style=flat-square&logo=argo&logoColor=white) | [GitOps Fundamentals](https://www.credly.com/badges/9cb3349b-c4a3-4e29-a1b8-bfb9ad60a12a/public_url) | Codefresh | [Verify](https://www.credly.com/badges/9cb3349b-c4a3-4e29-a1b8-bfb9ad60a12a/public_url) |
-| ![](https://img.shields.io/badge/-D97706?style=flat-square&logo=anthropic&logoColor=white) | Anthropic Work in Action | Anthropic | — |
+| ![](https://img.shields.io/badge/-D97706?style=flat-square&logo=anthropic&logoColor=white) | [Anthropic Work in Action](https://verify.skilljar.com/c/uwvjohqzbubr) | Anthropic | [Verify](https://verify.skilljar.com/c/uwvjohqzbubr) |
 
 ---
 
