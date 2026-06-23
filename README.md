@@ -84,8 +84,8 @@ I currently drive **CVE remediation**, **TestOps automation**, and **AI-powered 
 
 <div align="center">
 
-[![RHCA](https://img.shields.io/badge/RHCA-Red_Hat_Certified_Architect-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://rhtapps.redhat.com/verify?certId=180-218-476)
-[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/)
+[![RHCA](https://img.shields.io/badge/RHCA-Red_Hat_Certified_Architect-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/badges/145c6abc-aa32-41d0-a78a-16631fc7073d/public_url)
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/eaa80e63-0874-4c95-90fc-67c6b87bba0f/public_url)
 
 </div>
 
@@ -93,39 +93,39 @@ I currently drive **CVE remediation**, **TestOps automation**, and **AI-powered 
 
 ### Red Hat Certifications (10)
 
-![RHCA](https://img.shields.io/badge/RHCA-CC0000?style=flat-square&logo=redhat&logoColor=white)
-![EX432](https://img.shields.io/badge/EX432-CC0000?style=flat-square&logo=redhat&logoColor=white)
-![EX316](https://img.shields.io/badge/EX316-CC0000?style=flat-square&logo=redhat&logoColor=white)
-![EX267](https://img.shields.io/badge/EX267-CC0000?style=flat-square&logo=redhat&logoColor=white)
-![EX188](https://img.shields.io/badge/EX188-CC0000?style=flat-square&logo=redhat&logoColor=white)
-![EX380](https://img.shields.io/badge/EX380-CC0000?style=flat-square&logo=redhat&logoColor=white)
-![EX280](https://img.shields.io/badge/EX280-CC0000?style=flat-square&logo=redhat&logoColor=white)
-![EX180](https://img.shields.io/badge/EX180-CC0000?style=flat-square&logo=redhat&logoColor=white)
-![RHCE](https://img.shields.io/badge/RHCE-CC0000?style=flat-square&logo=redhat&logoColor=white)
-![RHCSA](https://img.shields.io/badge/RHCSA-CC0000?style=flat-square&logo=redhat&logoColor=white)
+[![RHCA](https://img.shields.io/badge/RHCA-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/145c6abc-aa32-41d0-a78a-16631fc7073d/public_url)
+[![EX432](https://img.shields.io/badge/EX432-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/d041b198-69b9-408a-a1df-ca87c054b096/public_url)
+[![EX316](https://img.shields.io/badge/EX316-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/2d47f0cf-405d-4232-8fcf-1746ef7c4e7d/public_url)
+[![EX267](https://img.shields.io/badge/EX267-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/410a1b89-6366-4eae-b823-54cb7ef71031/public_url)
+[![EX188](https://img.shields.io/badge/EX188-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/66d6fa0a-3f95-438e-9340-382a4eab2a7e/public_url)
+[![EX380](https://img.shields.io/badge/EX380-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/b8ee6cf0-b6e8-4164-bd80-f07a9f302730/public_url)
+[![EX280](https://img.shields.io/badge/EX280-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/6cbeec73-4d61-451a-99a2-f68e3a0f9af7/public_url)
+[![EX180](https://img.shields.io/badge/EX180-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/006bd58e-43ef-4e67-85c9-1e3d80e45922/public_url)
+[![RHCE](https://img.shields.io/badge/RHCE-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/573a2298-c7f2-4361-8cfc-6ff39dfd68ab/public_url)
+[![RHCSA](https://img.shields.io/badge/RHCSA-CC0000?style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/a89412fe-f7f3-4461-bb74-d8d4cdd12235/public_url)
 
 </div>
 
-| | Certification | Exam | Date |
-|:---:|:-------------|:----:|:----:|
-| ![](https://img.shields.io/badge/★-CC0000?style=flat-square&logo=redhat&logoColor=white) | **Red Hat Certified Architect (RHCA)** | — | **Feb 2026** |
-| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Specialist in OpenShift Advanced Cluster Mgmt | EX432 | Feb 2026 |
-| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Specialist in OpenShift Virtualization | EX316 | Oct 2025 |
-| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Certified Developer in AI | EX267 | Jan 2025 |
-| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Certified Developer in Cloud-native Apps | EX188 | Sep 2024 |
-| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Advanced System Admin in OpenShift | EX380 | Mar 2024 |
-| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Specialist in OpenShift Administration | EX280 | May 2022 |
-| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Specialist in Containers & Kubernetes | EX180 | Nov 2021 |
-| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Red Hat Certified Engineer (RHCE) | — | Nov 2018 |
-| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Red Hat Certified System Admin (RHCSA) | — | Jun 2018 |
+| | Certification | Exam | Verify |
+|:---:|:-------------|:----:|:------:|
+| ![](https://img.shields.io/badge/★-CC0000?style=flat-square&logo=redhat&logoColor=white) | **[Red Hat Certified Architect (RHCA)](https://www.credly.com/badges/145c6abc-aa32-41d0-a78a-16631fc7073d/public_url)** | — | [**Verify**](https://www.credly.com/badges/145c6abc-aa32-41d0-a78a-16631fc7073d/public_url) |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | [Specialist in OpenShift Advanced Cluster Mgmt](https://www.credly.com/badges/d041b198-69b9-408a-a1df-ca87c054b096/public_url) | EX432 | [Verify](https://www.credly.com/badges/d041b198-69b9-408a-a1df-ca87c054b096/public_url) |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | [Specialist in OpenShift Virtualization](https://www.credly.com/badges/2d47f0cf-405d-4232-8fcf-1746ef7c4e7d/public_url) | EX316 | [Verify](https://www.credly.com/badges/2d47f0cf-405d-4232-8fcf-1746ef7c4e7d/public_url) |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | [Certified Developer in AI](https://www.credly.com/badges/410a1b89-6366-4eae-b823-54cb7ef71031/public_url) | EX267 | [Verify](https://www.credly.com/badges/410a1b89-6366-4eae-b823-54cb7ef71031/public_url) |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | [Certified Developer in Cloud-native Apps](https://www.credly.com/badges/66d6fa0a-3f95-438e-9340-382a4eab2a7e/public_url) | EX188 | [Verify](https://www.credly.com/badges/66d6fa0a-3f95-438e-9340-382a4eab2a7e/public_url) |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | [Advanced System Admin in OpenShift](https://www.credly.com/badges/b8ee6cf0-b6e8-4164-bd80-f07a9f302730/public_url) | EX380 | [Verify](https://www.credly.com/badges/b8ee6cf0-b6e8-4164-bd80-f07a9f302730/public_url) |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | [Specialist in OpenShift Administration](https://www.credly.com/badges/6cbeec73-4d61-451a-99a2-f68e3a0f9af7/public_url) | EX280 | [Verify](https://www.credly.com/badges/6cbeec73-4d61-451a-99a2-f68e3a0f9af7/public_url) |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | [Specialist in Containers & Kubernetes](https://www.credly.com/badges/006bd58e-43ef-4e67-85c9-1e3d80e45922/public_url) | EX180 | [Verify](https://www.credly.com/badges/006bd58e-43ef-4e67-85c9-1e3d80e45922/public_url) |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | [Red Hat Certified Engineer (RHCE)](https://www.credly.com/badges/573a2298-c7f2-4361-8cfc-6ff39dfd68ab/public_url) | — | [Verify](https://www.credly.com/badges/573a2298-c7f2-4361-8cfc-6ff39dfd68ab/public_url) |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | [Red Hat Certified System Admin (RHCSA)](https://www.credly.com/badges/a89412fe-f7f3-4461-bb74-d8d4cdd12235/public_url) | — | [Verify](https://www.credly.com/badges/a89412fe-f7f3-4461-bb74-d8d4cdd12235/public_url) |
 
 <br/>
 
-| | Certification | Issuer | Date |
-|:---:|:-------------|:------:|:----:|
-| ![](https://img.shields.io/badge/-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | **Certified Kubernetes Administrator (CKA)** | CNCF | Mar 2023 |
-| ![](https://img.shields.io/badge/-8952E0?style=flat-square&logo=argo&logoColor=white) | GitOps Fundamentals | Codefresh | Apr 2023 |
-| ![](https://img.shields.io/badge/-D97706?style=flat-square&logo=anthropic&logoColor=white) | Anthropic Work in Action | Anthropic | 2025 |
+| | Certification | Issuer | Verify |
+|:---:|:-------------|:------:|:------:|
+| ![](https://img.shields.io/badge/-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/eaa80e63-0874-4c95-90fc-67c6b87bba0f/public_url)** | CNCF | [**Verify**](https://www.credly.com/badges/eaa80e63-0874-4c95-90fc-67c6b87bba0f/public_url) |
+| ![](https://img.shields.io/badge/-8952E0?style=flat-square&logo=argo&logoColor=white) | [GitOps Fundamentals](https://www.credly.com/badges/9cb3349b-c4a3-4e29-a1b8-bfb9ad60a12a/public_url) | Codefresh | [Verify](https://www.credly.com/badges/9cb3349b-c4a3-4e29-a1b8-bfb9ad60a12a/public_url) |
+| ![](https://img.shields.io/badge/-D97706?style=flat-square&logo=anthropic&logoColor=white) | Anthropic Work in Action | Anthropic | — |
 
 ---
 
