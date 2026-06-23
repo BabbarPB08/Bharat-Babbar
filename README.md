@@ -82,36 +82,50 @@ I currently drive **CVE remediation**, **TestOps automation**, and **AI-powered 
 
 ## Certifications
 
-<details>
-<summary><strong>Red Hat Certifications (10) — click to expand</strong></summary>
+<div align="center">
+
+[![RHCA](https://img.shields.io/badge/RHCA-Red_Hat_Certified_Architect-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://rhtapps.redhat.com/verify?certId=180-218-476)
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/)
+
+</div>
+
+<div align="center">
+
+### Red Hat Certifications (10)
+
+![RHCA](https://img.shields.io/badge/RHCA-CC0000?style=flat-square&logo=redhat&logoColor=white)
+![EX432](https://img.shields.io/badge/EX432-CC0000?style=flat-square&logo=redhat&logoColor=white)
+![EX316](https://img.shields.io/badge/EX316-CC0000?style=flat-square&logo=redhat&logoColor=white)
+![EX267](https://img.shields.io/badge/EX267-CC0000?style=flat-square&logo=redhat&logoColor=white)
+![EX188](https://img.shields.io/badge/EX188-CC0000?style=flat-square&logo=redhat&logoColor=white)
+![EX380](https://img.shields.io/badge/EX380-CC0000?style=flat-square&logo=redhat&logoColor=white)
+![EX280](https://img.shields.io/badge/EX280-CC0000?style=flat-square&logo=redhat&logoColor=white)
+![EX180](https://img.shields.io/badge/EX180-CC0000?style=flat-square&logo=redhat&logoColor=white)
+![RHCE](https://img.shields.io/badge/RHCE-CC0000?style=flat-square&logo=redhat&logoColor=white)
+![RHCSA](https://img.shields.io/badge/RHCSA-CC0000?style=flat-square&logo=redhat&logoColor=white)
+
+</div>
+
+| | Certification | Exam | Date |
+|:---:|:-------------|:----:|:----:|
+| ![](https://img.shields.io/badge/★-CC0000?style=flat-square&logo=redhat&logoColor=white) | **Red Hat Certified Architect (RHCA)** | — | **Feb 2026** |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Specialist in OpenShift Advanced Cluster Mgmt | EX432 | Feb 2026 |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Specialist in OpenShift Virtualization | EX316 | Oct 2025 |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Certified Developer in AI | EX267 | Jan 2025 |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Certified Developer in Cloud-native Apps | EX188 | Sep 2024 |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Advanced System Admin in OpenShift | EX380 | Mar 2024 |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Specialist in OpenShift Administration | EX280 | May 2022 |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Specialist in Containers & Kubernetes | EX180 | Nov 2021 |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Red Hat Certified Engineer (RHCE) | — | Nov 2018 |
+| ![](https://img.shields.io/badge/-CC0000?style=flat-square&logo=redhat&logoColor=white) | Red Hat Certified System Admin (RHCSA) | — | Jun 2018 |
+
 <br/>
 
-| Certification | Exam | Date |
-|--------------|:----:|:----:|
-| **Red Hat Certified Architect (RHCA)** | — | Feb 2026 |
-| Specialist in OpenShift Advanced Cluster Mgmt | EX432 | Feb 2026 |
-| Specialist in OpenShift Virtualization | EX316 | Oct 2025 |
-| Certified Developer in AI | EX267 | Jan 2025 |
-| Certified Developer in Cloud-native Apps | EX188 | Sep 2024 |
-| Advanced System Admin in OpenShift | EX380 | Mar 2024 |
-| Specialist in OpenShift Administration | EX280 | May 2022 |
-| Specialist in Containers & Kubernetes | EX180 | Nov 2021 |
-| Red Hat Certified Engineer (RHCE) | — | Nov 2018 |
-| Red Hat Certified System Admin (RHCSA) | — | Jun 2018 |
-
-</details>
-
-<details>
-<summary><strong>Industry Certifications — click to expand</strong></summary>
-<br/>
-
-| Certification | Issuer | Date |
-|--------------|:------:|:----:|
-| **Certified Kubernetes Administrator (CKA)** | CNCF | Mar 2023 |
-| GitOps Fundamentals | Codefresh | Apr 2023 |
-| Anthropic Work in Action | Anthropic | 2025 |
-
-</details>
+| | Certification | Issuer | Date |
+|:---:|:-------------|:------:|:----:|
+| ![](https://img.shields.io/badge/-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | **Certified Kubernetes Administrator (CKA)** | CNCF | Mar 2023 |
+| ![](https://img.shields.io/badge/-8952E0?style=flat-square&logo=argo&logoColor=white) | GitOps Fundamentals | Codefresh | Apr 2023 |
+| ![](https://img.shields.io/badge/-D97706?style=flat-square&logo=anthropic&logoColor=white) | Anthropic Work in Action | Anthropic | 2025 |
 
 ---
 
